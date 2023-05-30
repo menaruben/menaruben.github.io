@@ -18,6 +18,6 @@
 I am currently working on a Go module called [GoScan](https://github.com/menaruben/GoScan) (also documented on the [go website](https://pkg.go.dev/github.com/menaruben/GoScan)) which is a network/port scanner.
 
 ### currently studying
-- the C programmign language
+- the C programming language
 - win32 API
 - different prime sieving algorithms (to optimize my [RSA-Cryptosystem](https://github.com/menaruben/RSA-Cryptosystem) programs)
